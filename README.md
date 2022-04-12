@@ -1,0 +1,34 @@
+# freecodecamp-Learn-Python
+Introducción completa de los conceptos principales de Python aprendidos en Freecodecamp
+- Dibujar una forma
+- Variables y Tipos de datos
+- Trabajando con strings
+- Trabajar con números
+- Conseguir inputs de usuarios
+- Crear una calculadora básica
+- Juego Mad Libs
+- Listas
+- Funciones de listas
+- Tuplas
+- Funciones
+- Declaración Return
+- Declaración If
+- Declaración If y Comparaciones
+- Crear una calculadora mejor
+- Diccionarios
+- Repetición While
+- Crear un juego de adivinanzas
+- Repetición For
+- Función exponencial
+- Lista 2D y repeticiones anidadas
+- Construir un traductor
+- Comentarios
+- Try / Except
+- Leer archivos
+- Editar archivos
+- Módulos y semillas
+- Clases y objetos
+- Crear un test de opciones múltiples
+- Funciones de los objetos
+- Inheritance
+- Interpretador Python
